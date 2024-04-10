@@ -3,8 +3,6 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=hillaarts&label=Profile%20views&color=0e75b6&style=flat" alt="hillaarts" /> </p>
 
-- 🔭 I’m currently working on [AirBnB Clone](https://github.com/Isma3l-19/AirBnB_clone)
-
 - 🌱 I’m currently learning **Software Engineering**
 
 - 👨‍💻 All of my projects are available at [https://github.com/HillaArts](https://github.com/HillaArts)
