@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Hillary Hassenye</h1>
-<h3 align="center">A passionate frontend developer from Kenya</h3>
+<h3 align="center">A passionate Backend developer from Kenya</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=hillaarts&label=Profile%20views&color=0e75b6&style=flat" alt="hillaarts" /> </p>
 
@@ -7,7 +7,7 @@
 
 - 👨‍💻 All of my projects are available at [https://github.com/HillaArts](https://github.com/HillaArts)
 
-- 💬 Ask me about **C, Python and Shell scripting**
+- 💬 Ask me about **C, Python, Shell scripting, Flask**
 
 - 📫 How to reach me **hassenyehillary@gmail.com**
 
