@@ -7,7 +7,7 @@
 
 - 🌱 I’m currently learning **Software Engineering**
 
-- 👨‍💻 All of my projects are available at [https://github.com/HillaArts](https://github.com/HillaArts](https://github.com/HillaArts](https://github.com/HillaArts)
+- 👨‍💻 All of my projects are available at [https://github.com/HillaArts](https://github.com/HillaArts)
 
 - 💬 Ask me about **c, python, Flask, shell script, html, css, javascript**
 
