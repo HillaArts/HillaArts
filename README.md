@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Hilla</h1>
 
-- 🌱 I’m currently learning **Software Engineering**
+- 🌱 I’m a **Full Stack Developer**
 
 - 👨‍💻 All of my projects are available at [https://github.com/HillaArts](https://github.com/HillaArts)
 
