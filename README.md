@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Hilla</h1>
+<h1 align="center">Hi 👋, I'm Hillary Hassenye</h1>
 
 - 🌱 I’m a **Full Stack Developer**
 
