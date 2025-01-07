@@ -4,7 +4,7 @@
 
 - 👨‍💻 All of my projects are available at [https://github.com/HillaArts](https://github.com/HillaArts)
 
-- 💬 Ask me about **c, python, Flask, shell script, html, css, javascript**
+- 💬 Ask me about **c, python,JavaScript, Flask, Node.Js, Express.js, shell script, html, css, Amazon EC2, AZure Web Service, MongoDB, MySQL**
 
 - 📫 How to reach me **hassenyehillary@gmail.com**
 
